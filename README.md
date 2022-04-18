@@ -16,6 +16,9 @@ Uma ferramenta de consulta de previsão do tempo via API com React/Redux/Typescr
 Esse projeto foi criado utilizando a API gratuita da Open Weather Map:
 + https://openweathermap.org/
 
+## 🕤 Em breve
+Será adicionado ao projeto á opção de "Ver mais detalhes", onde mostrará a previsão do tempo para os próximos 4 dias!
+
 ## ❓ Intuito do projeto
 Eu montei esse projeto apenas para estudar, espero que assim como os projetos citados acima me ajudaram, esse projeto possa ajudar você também :)
 
